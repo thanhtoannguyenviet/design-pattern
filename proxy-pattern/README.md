@@ -1,4 +1,4 @@
-# Facade pattern
+# Proxy pattern
 ## Mục tiêu
 Là một structural pattern, điều khiển gián tiếp một object thông qua một đối tượng đc ủy quyền
 ## Vấn đề giải quyết
